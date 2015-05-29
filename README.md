@@ -1,5 +1,8 @@
-***THIS PLUGIN NO LONGER WORKS!***
-Unfortunately, Spotify updated their Windows client and no longer puts the song title in the title bar of the window, where this plugin grabs the now playing info from. 
+***This plugin received a minor change to work with the latest spotify as of 5-29-2015.***
+Fortunately for the community, Spotify changed up the window title to reflect the current song playing, rather than just saying 'Spotify Free' or 'Spotify Premium'.
+
+~~***THIS PLUGIN NO LONGER WORKS!***~~
+~~Unfortunately, Spotify updated their Windows client and no longer puts the song title in the title bar of the window, where this plugin grabs the now playing info from.~~
 
 Spotify Now Playing plugin for HexChat
 ======================================
